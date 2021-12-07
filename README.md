@@ -8,8 +8,11 @@ The MVC architecture is a software architecture pattern that separates an applic
 ## Getting Started
 
 ### Dependencies
-- Spring Tools 4
+- Spring Tools 4.
+- Visual Studio Code or other code editor with support for version control.
+- Git.
 
 ### Installation
+- > y
 
  
