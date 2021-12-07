@@ -8,5 +8,8 @@ The MVC architecture is a software architecture pattern that separates an applic
 ## Getting Started
 
 ### Dependencies
-- You
+- Spring Tools 4
+
+### Installation
+
  
