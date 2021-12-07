@@ -13,6 +13,6 @@ The MVC architecture is a software architecture pattern that separates an applic
 - Git.
 
 ### Installation
-- > y
+-  y >
 
  
