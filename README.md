@@ -15,8 +15,7 @@ The MVC architecture is a software architecture pattern that separates an applic
 ### Installation
 In your code editor:
 ```
-git clone (for remote repository copy)
-
+git clone
 ```
 
 
