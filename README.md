@@ -1,2 +1,2 @@
-# form-spring
+# Form
  Simple form with springboot.
