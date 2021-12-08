@@ -19,7 +19,8 @@ git clone (repository)
 ```
 
 ### Executing program
-- Open STS and import project
+- Open STS and import the project
+
 
 
 
