@@ -11,8 +11,6 @@ The MVC architecture is a software architecture pattern that separates an applic
 - Spring Tools Suite 4.
 - Visual Studio Code or other code editor with support for version control.
 - Git.
-- JDK 1.8 or later
-- Gradle 4+ or Maven 3.2+
 
 ### Installation
 In your code editor:
