@@ -1,5 +1,5 @@
 # Springboot Form
-This project covers MVC architecture, using the Spring Boot framework <br>
+This project covers MVC architecture, using the Spring framework <br>
 to build a simple runtime data capture and storage form.
 
 ## Description
